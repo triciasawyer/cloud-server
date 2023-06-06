@@ -1,17 +1,28 @@
 {
   "name": "cloud-server",
   "version": "1.0.0",
-  "description": "Lab 16 - intro to AWS",
+  "description": "Lab16-AWS",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triciasawyer/cloud-server.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Tricia Sawyer",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/triciasawyer/cloud-server/issues"
+  },
+  "homepage": "https://github.com/triciasawyer/cloud-server#readme",
   "dependencies": {
     "dotenv": "^16.1.4",
     "express": "^4.18.2"
+  },
+  "engines" : { 
+    "node" : "18.x"
   }
 }
