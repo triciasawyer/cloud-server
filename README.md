@@ -19,7 +19,8 @@ Go to IAM
 If no user exists, create one. follow the prompts in the GUI
 give that user permissions create group (or not).
 permissions for lab 16: AdministratorAccess-AWSElasticBeanstalk
-To manage the Access Key:
+
+#### To manage the Access Key
 
 go to the users tab in IAM
 select your user
@@ -39,7 +40,8 @@ confirm that your package.json is in order.
 main should be assigned the appropriate file name as an entry point
 start script should be present and also point to your file entry point
 zip ONLY the necessary files for GUI deployment. class example: package.json and server.js
-To deploy via elastic beanstalk in the GUI
+
+#### To deploy via elastic beanstalk in the GUI
 
 Go to Elastic beanstalk in console (use search bar or recently visited)
 select the orange create application button
