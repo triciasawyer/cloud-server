@@ -9,8 +9,6 @@ Lab 16 - intro to AWS
 [GUI](http://cloudserver-env.eba-2p3krtgt.us-east-2.elasticbeanstalk.com/)
 [CLI](http://cloud-server-dev.us-east-2.elasticbeanstalk.com/)
 
-## Process
-
 ### AWS IAM
 
 you will need to have at least one user with an access key and secret key added to the command line.
