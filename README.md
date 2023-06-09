@@ -4,6 +4,10 @@
 
 Lab 16 - intro to AWS
 
+## Collaborators
+
+Stephen Clemmer and Ryan Gallaway
+
 ## Live deployment links
 
 [GUI](http://cloudserver-env.eba-2p3krtgt.us-east-2.elasticbeanstalk.com/)
