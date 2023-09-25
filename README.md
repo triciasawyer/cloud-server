@@ -3,6 +3,7 @@
 ## Live deployment links
 
 [GUI](http://cloudserver-env.eba-2p3krtgt.us-east-2.elasticbeanstalk.com/)
+
 [CLI](http://cloud-server-dev.us-east-2.elasticbeanstalk.com/)
 
 ### AWS IAM
